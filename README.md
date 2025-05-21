@@ -26,13 +26,13 @@ Desenvolver um aplicativo para calcular o valor de rendimentos em um investiment
 ## Tecnologias
 - 100% Kotlin
 - UI (Interface Gráfica): XML para definir o layout da tela.
-✅ Widgets usados:
-TextView para exibir os valores calculados.
-EditText para entrada de dados.
-Button para calcular e limpar os campos.
-✅ Snackbar: Para exibir alertas quando os campos estão vazios.
-✅ Cálculo de investimento: Implementado via Math.pow() para juros compostos.
-✅ Locale e NumberFormat: Para garantir a formatação correta dos números conforme a localização do usuário.
+- Widgets usados:
+   * TextView para exibir os valores calculados.
+   * EditText para entrada de dados.
+   * Button para calcular e limpar os campos.
+- Snackbar: Para exibir alertas quando os campos estão vazios.
+- Cálculo de investimento: Implementado via Math.pow() para juros compostos.
+- Locale e NumberFormat: Para garantir a formatação correta dos números conforme a localização do usuário.
 
 ## License
 ```
